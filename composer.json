@@ -42,7 +42,8 @@
     "wpackagist-plugin/amazon-s3-and-cloudfront": "^2.4",
     "ext-imagick": "*",
     "ext-mbstring": "*",
-    "ext-exif": "*"
+    "ext-exif": "*",
+    "wpackagist-plugin/wordpress-importer": "^0.7.0"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.5.6",
